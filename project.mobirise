@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-12_1504",
+    "name": "MY PORTFOLIO",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -55,7 +55,9 @@
     ],
     "uniqCompNum": 11,
     "versionPublish": "4.8.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
